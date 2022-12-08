@@ -1,1 +1,2 @@
-# Arduino-self-driving-car
+# Arduino 自走車
+用超音波和馬達、以Arduino控制、電池發電的能迴避障礙物之自走車。
